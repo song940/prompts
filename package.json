@@ -1,0 +1,36 @@
+{
+  "name": "xprompt",
+  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Minimal interactive command-line prompts",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": {
+    "name": "Lsong",
+    "email": "song940@gmail.com",
+    "url": "https://lsong.org"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6"
+  },
+  "keywords": [
+    "cli",
+    "command-line",
+    "interactive",
+    "interfaces",
+    "prompts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/prompts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/prompts/issues"
+  },
+  "homepage": "https://github.com/song940/prompts#readme"
+}
